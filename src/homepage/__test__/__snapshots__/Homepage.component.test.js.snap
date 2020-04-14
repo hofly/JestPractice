@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Homepage Test should render snapshot test for homepage 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "paddingTop": 10,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 18,
+        "fontWeight": "bold",
+      }
+    }
+  >
+    Welcome to user board
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "paddingTop": 20,
+      }
+    }
+  >
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#9CCC65",
+            "borderRadius": 15,
+            "marginBottom": 10,
+            "paddingVertical": 15,
+            "width": 200,
+          }
+        }
+      >
+        <Text>
+          Anonymous Users
+        </Text>
+      </View>
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#9CCC65",
+            "borderRadius": 15,
+            "marginBottom": 10,
+            "paddingVertical": 15,
+            "width": 200,
+          }
+        }
+      >
+        <Text>
+          Professional Users
+        </Text>
+      </View>
+    </TouchableOpacity>
+    <TouchableOpacity
+      activeOpacity={0.2}
+      onPress={[Function]}
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#9CCC65",
+            "borderRadius": 15,
+            "marginBottom": 10,
+            "paddingVertical": 15,
+            "width": 200,
+          }
+        }
+      >
+        <Text>
+          Premium Users
+        </Text>
+      </View>
+    </TouchableOpacity>
+  </View>
+</View>
+`;
